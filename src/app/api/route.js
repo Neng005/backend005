@@ -1,5 +1,3 @@
-'user server'
-
 // app/api/route.js
 import { NextResponse } from 'next/server';
 import { Client } from 'pg';
